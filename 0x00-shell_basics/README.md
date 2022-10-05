@@ -1,1 +1,1 @@
-List files in wd and pwd and boot
+type of file named iamafile
