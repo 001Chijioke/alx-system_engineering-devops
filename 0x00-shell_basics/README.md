@@ -1,1 +1,1 @@
-change working directory to the previous one
+List files in wd and pwd and boot
