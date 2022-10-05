@@ -1,1 +1,1 @@
-type of file named iamafile
+create a symbolic link
