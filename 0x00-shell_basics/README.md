@@ -1,1 +1,1 @@
-move all files
+A script that creates directories
