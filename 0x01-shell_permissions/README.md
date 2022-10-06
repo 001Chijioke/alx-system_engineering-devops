@@ -1,1 +1,1 @@
-Executive permission to the owner of the file hello
+Multiple permission to owner and group owner
