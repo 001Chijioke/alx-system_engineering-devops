@@ -1,1 +1,1 @@
-list all files
+ A magic file that can be used
