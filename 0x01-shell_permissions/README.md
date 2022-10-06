@@ -1,1 +1,1 @@
-Multiple permission to owner and group owner
+A script that adds permission to everyone
