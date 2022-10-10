@@ -1,1 +1,1 @@
-A script to display the contents of two files
+Display the first ten lines
