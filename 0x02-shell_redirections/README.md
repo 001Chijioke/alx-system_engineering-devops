@@ -1,1 +1,1 @@
-A script that list all files with a gif extension
+ a script that parses web servers logs in TSV format 
