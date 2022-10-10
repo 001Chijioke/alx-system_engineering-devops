@@ -1,1 +1,1 @@
-Display all the lines in the file etcpasswd
+Display all lines of the files etcsshsshd config
