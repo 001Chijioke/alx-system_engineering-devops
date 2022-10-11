@@ -1,1 +1,1 @@
-A script that converts a number from base ten to base 16
+ a script that encodes and decodes text using the rot13 encryption. Assume ASCII
